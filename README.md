@@ -1,4 +1,4 @@
-This is a personal project— a React Native application integrated with a Firebase backend. Currently, the project is a work in progress, and we are actively developing and improving it.
+This is a personal project of Jodiech and Ely-ullen — a React Native application integrated with a Firebase backend. Currently, the project is a work in progress, and we are actively developing and improving it.
 
 ## Current Status
 
